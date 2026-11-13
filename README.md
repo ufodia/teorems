@@ -157,3 +157,11 @@ Este projeto é de código aberto sob a licença [MIT](LICENSE), com fins educac
 * Visite o blog: canalqb.blogspot.com [https://canalqb.blogspot.com]
 * 💸 Apoie o projeto via Bitcoin: 13Ve1k5ivByaCQ5yer6GoV84wAtf3kNava
 * PIX: qrodrigob@gmail.com
+
+## Support this project
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ufodia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
